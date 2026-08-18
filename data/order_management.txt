@@ -1,0 +1,52 @@
+SHOPEASE - ORDER MANAGEMENT
+
+CHECKING ORDER STATUS
+
+You can check your order status by:
+- Logging into your account at shopease.com and clicking "My Orders"
+- Using the order lookup tool at shopease.com/orders with your order number and email
+- Checking your shipping confirmation email for tracking details
+
+ORDER STATUS DEFINITIONS
+- Order Placed: We have received your order and payment is confirmed
+- Processing: Your order is being picked and packed at our warehouse
+- Shipped: Your order has left our warehouse and is with the carrier
+- Out for Delivery: Your order is on the delivery vehicle today
+- Delivered: Your order has been delivered to the address provided
+- Cancelled: Your order has been cancelled and refund is being processed
+
+MODIFYING AN ORDER
+
+Orders can only be modified within 1 hour of placement. Modifications include:
+- Changing the shipping address
+- Updating item quantities
+- Removing items from the order
+
+To modify, contact support immediately via live chat for fastest response.
+
+CANCELLING AN ORDER
+
+To cancel an order:
+1. Log into your account and go to "My Orders"
+2. Select the order and click "Cancel Order" if the button is available
+3. If the button is not available, the order is already in processing — contact support immediately
+
+If an order has already shipped, you cannot cancel it. You will need to initiate a return once it is delivered.
+
+MISSING ITEMS IN ORDER
+
+If your order arrived with missing items:
+1. Check your email — items may have shipped separately
+2. Verify all items on your packing slip
+3. Contact support@shopease.com within 7 days with your order number
+
+DUPLICATE ORDERS
+
+If you accidentally placed a duplicate order, contact support within 1 hour to cancel one. After 1 hour, you will need to return the duplicate order once delivered.
+
+INVOICES AND RECEIPTS
+
+Digital receipts are automatically sent to your email after purchase. To download an invoice:
+1. Log into your account
+2. Go to "My Orders"
+3. Select the order and click "Download Invoice"

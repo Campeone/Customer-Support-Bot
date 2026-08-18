@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Vector DB — rebuilt at Docker build time
+chroma_db/
+
+# Tickets — generated at runtime
+tickets/
+
+# OS
+.DS_Store
+Thumbs.db

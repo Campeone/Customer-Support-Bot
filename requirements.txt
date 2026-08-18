@@ -1,0 +1,20 @@
+# Core RAG
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-openai
+llama-index-llms-openai
+
+# Vector DB
+chromadb
+
+# Backend
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Frontend
+streamlit
+
+# Utilities
+tiktoken
