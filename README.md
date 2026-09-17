@@ -1,7 +1,6 @@
-```markdown
 # ShopEase AI Customer Support Bot
 
-A RAG-powered customer support chatbot that automatically answers 80%+ of 
+A RAG-powered customer support chatbot that automatically answers 75%+ of 
 customer queries 24/7 — with intelligent escalation routing to human agents 
 for complex issues.
 
@@ -46,8 +45,7 @@ Answer returned   Ticket created
 to user           and routed to
                   right human team
 ```
-
----
+--- 
 
 ## Features
 
