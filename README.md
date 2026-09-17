@@ -26,8 +26,7 @@ focus on work that actually needs a human.
 
 ## How It Works
 
-```
-text
+```text
 User sends a question
         │
         ▼
@@ -78,8 +77,7 @@ to user           and routed to
 
 ## Project Structure
 
-```
-text
+```text
 customer-support-bot/
 │
 ├── app.py                        # Streamlit chat UI
