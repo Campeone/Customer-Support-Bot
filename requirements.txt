@@ -1,20 +1,20 @@
 # Core RAG
-llama-index
-llama-index-vector-stores-chroma
-llama-index-embeddings-openai
-llama-index-llms-openai
+llama-index==0.14.23
+llama-index-vector-stores-chroma==0.5.5
+llama-index-embeddings-openai==0.6.0
+llama-index-llms-openai==0.7.10
 
 # Vector DB
-chromadb
+chromadb==1.5.9
 
 # Backend
 fastapi
 uvicorn
-python-dotenv
-pydantic
+python-dotenv==1.2.3
+pydantic==2.13.4
 
 # Frontend
-streamlit
+streamlit==1.61.1
 
 # Utilities
-tiktoken
+tiktoken==0.13.0
