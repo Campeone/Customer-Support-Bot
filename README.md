@@ -4,8 +4,11 @@ A RAG-powered customer support chatbot that automatically answers 75%+ of
 customer queries 24/7 — with intelligent escalation routing to human agents 
 for complex issues.
 
-Live demo: https://customer-support-bot-jmjte86ddprbl4tnl4jfgg.streamlit.app/
+**Live demo:** https://customer-support-bot-jmjte86ddprbl4tnl4jfgg.streamlit.app/
 
+**GitHub:** https://github.com/Campeone/Customer-Support-Bot
+
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/950f77ba-2e6b-4dcf-b30a-4c76d5109826" />
 ---
 
 ## The Business Problem
